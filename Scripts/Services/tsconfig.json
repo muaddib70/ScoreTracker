@@ -1,0 +1,15 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "noEmitOnError": true,
+        "removeComments": true,
+        "sourceMap": true,
+        "target": "ESNext",
+        "outFile": "./Services.js"
+    },
+    "exclude": [
+        "node_modules",
+        "wwwroot"
+    ]
+}
