@@ -1,0 +1,25 @@
+{
+  "name": "scoretracker",
+  "version": "1.0.0",
+  "description": "keep track of numeric scores for game",
+  "main": "index.html",
+  "dependencies": {
+    "@types/angular": "^1.7.0",
+    "@types/angular-ui-bootstrap": "^1.0.0",
+    "angular": "^1.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muaddib70/ScoreTracker.git"
+  },
+  "author": "keith a richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muaddib70/ScoreTracker/issues"
+  },
+  "homepage": "https://github.com/muaddib70/ScoreTracker#readme"
+}

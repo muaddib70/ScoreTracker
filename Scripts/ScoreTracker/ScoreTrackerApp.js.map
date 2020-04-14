@@ -1,1 +1,1 @@
-{"version":3,"file":"ScoreTrackerApp.js","sourceRoot":"","sources":["ScoreTrackerApp.ts"],"names":[],"mappings":""}
+{"version":3,"file":"ScoreTrackerApp.js","sourceRoot":"","sources":["ScoreTrackerApp.ts"],"names":[],"mappings":"AAGA,IAAI,eAAe,GAAG,OAAO,CAAC,MAAM,CAAC,iBAAiB,EAAE,CAAC,cAAc,CAAC,CAAC,CAAC;AAG1E,eAAe,CAAC,UAAU,CAAC,wBAAwB,EAAE,YAAY,CAAC,sBAAsB,CAAC,CAAC"}

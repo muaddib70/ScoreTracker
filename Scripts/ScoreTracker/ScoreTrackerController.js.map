@@ -1,1 +1,1 @@
-{"version":3,"file":"ScoreTrackerController.js","sourceRoot":"","sources":["ScoreTrackerController.ts"],"names":[],"mappings":""}
+{"version":3,"file":"ScoreTrackerController.js","sourceRoot":"","sources":["ScoreTrackerController.ts"],"names":[],"mappings":"AAAA,IAAU,YAAY,CAUrB;AAVD,WAAU,YAAY;IAElB,MAAa,sBAAsB;QAE/B,YACc,MAAoC,EACpC,SAAwC;YADxC,WAAM,GAAN,MAAM,CAA8B;YACpC,cAAS,GAAT,SAAS,CAA+B;YAHtD,YAAO,GAAG,CAAC,QAAQ,EAAE,WAAW,CAAC,CAAA;QAK/B,CAAC;KACN;IAPY,mCAAsB,yBAOlC,CAAA;AACL,CAAC,EAVS,YAAY,KAAZ,YAAY,QAUrB"}
